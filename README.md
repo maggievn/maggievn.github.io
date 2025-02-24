@@ -1,1 +1,2 @@
-# maggievn.github.io
+- Hi my name is Maggie
+- I am in my senior year pursuing a BIS degree
