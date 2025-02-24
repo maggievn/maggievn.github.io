@@ -1,2 +1,6 @@
-- Hi my name is Maggie
-- I am in my senior year pursuing a BIS degree
+| Name | Maggie |
+| :--- |  :---: |
+| Introduction | I am in the BIS program
+
+
+
