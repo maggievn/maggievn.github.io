@@ -1,7 +1,7 @@
-### Welcome To My Home Page
+# Welcome To My Home Page
 ## Expectations
 
-# Please enjoy yourself while here
+### Please enjoy yourself while here
 
 
 ---
