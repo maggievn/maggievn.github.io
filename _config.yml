@@ -3,3 +3,4 @@ remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - 
 gem "github-pages", group: :jekyll_plugins
+
