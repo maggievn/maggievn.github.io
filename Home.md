@@ -1,9 +1,5 @@
-maggievn.github.io-Home.md
----
-https://maggievn.github.io/home/contact/
-layout:Home
-title: "https://maggievn.github.io-HOME"
-permalink: /https://maggievn.github.io-home-contact
+Home
+
 # Welcome
 ### Expectations
 
