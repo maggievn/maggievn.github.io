@@ -1,9 +1,14 @@
-## Welcome
-## Expectations
+# Welcome To My Home Page
+## Happy you are here!
+
+### Please check out the Ethics tab for a review of a few guidelines
 
 
 ---
-https://maggievn.github.io/home/contact/  
+### Check back soon for calendar events
+### Thanks for visiting 
+
+  
 
 
   
