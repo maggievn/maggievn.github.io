@@ -1,11 +1,12 @@
 # Welcome To My Home Page
-## Expectations
+## Happy you are here!
 
 ### Please enjoy yourself while here
 
 
 ---
-Check back soon for calendar events
+### Check back soon for calendar events
+### Thanks for visiting :)
 
   
 
