@@ -1,3 +1,7 @@
+# Ethics
+
+[Go To Ethics Heading section](#ethics-heading)
+ 
 | Name | Maggie |
 | :--- |  :---: |
 | Introduction | I am in the BIS program. This is my senior year.
