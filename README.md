@@ -1,6 +1,6 @@
 # Ethics
 
-[Go To Ethics Heading section](#ethics-heading)
+[Go To Ethics Heading section](#ethics.md-heading)
  
 | Name | Maggie |
 | :--- |  :---: |
