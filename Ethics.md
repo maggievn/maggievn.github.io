@@ -13,5 +13,5 @@ Tips on ethical computing use from https://www.acm.org/code-of-ethics
 
 - Use Your Skills for Positive Outcomes
 
-It is pertinent for computing professionals to uphold and maintain integrity. 
+It is pertinent for computing professionals to uphold and maintain integrity.   🖥️
 
