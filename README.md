@@ -5,6 +5,9 @@
 
 # Ethics
 
+[Ethics](https://github.com/maggievn/maggievn.github.io/blob/main/Ethics.md)
+
+
 
  
 | Name | Maggie |
