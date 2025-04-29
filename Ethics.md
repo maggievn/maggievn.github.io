@@ -3,7 +3,7 @@
 
 Ethical standards are pertinent in computing. Designing and using technology responsibly and ethically is the right thing to do!
 
-Tips on ethical computing use
+Tips on ethical computing use from https://www.acm.org/code-of-ethics
 
 - Be Honest & Trust Worthy
 
