@@ -1,5 +1,5 @@
-  ## Home
-  ## Ethics
+## Home
+## Ethics
 
 
 | Name | Maggie |
