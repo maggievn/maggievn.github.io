@@ -15,3 +15,5 @@ Tips on ethical computing use from https://www.acm.org/code-of-ethics
 
 It is pertinent for computing professionals to uphold and maintain integrity.   🖥️
 
+This is a Markdown file with an HTML link: <a href="index.html">Link to HTML File</a>
+
